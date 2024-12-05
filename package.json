@@ -1,0 +1,14 @@
+{
+  "name": "node-pdfkit",
+  "version": "1.0.0",
+  "author": "",
+  "main": "index.js",
+  "dependencies": {
+    "pdfkit": "^0.12.1",
+    "pocketbase": "^0.22.1"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {}
+}
